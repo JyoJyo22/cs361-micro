@@ -3,7 +3,6 @@
 // This lat/long will be a JSON obj and you send this JSON obj back to the React app. 
 // This API will be public on your github which will be linked to render.com for public use
 
-import 'dotenv/config';
 import express from 'express';
 import axios from 'axios';
 
