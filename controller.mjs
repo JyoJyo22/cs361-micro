@@ -5,10 +5,13 @@
 
 import express from 'express';
 import axios from 'axios';
+import cors, { CorsOptions } from 'cors';
 
 const PORT = 3000;
 const app = express();
+// const cors = require('cors');
 app.use(express.json());
+app.use(cors());
 
 
 //  GET CONTROLLER     ######################################
