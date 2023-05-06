@@ -24,7 +24,7 @@ app.get('/get/:beachName', async (req, res) => {
 
     try {
         const response = await axios.get(url);
-        res.json(response.data);
+        res.json(response.data.features[0]);
         console.log(response.data);
 
     } catch (error) {
