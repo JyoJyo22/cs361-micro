@@ -33,5 +33,8 @@ An example of the code which sends back this response can be seen in the UML dia
 
 ---
 
+#### UML Diagram:
+Please see or download the image file in this repo for a larger/zoomed-in view
+
 ![Image](https://github.com/JyoJyo22/cs361-micro/blob/master/cs361-assign8-UML.png)
 
