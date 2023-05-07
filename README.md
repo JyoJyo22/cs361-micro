@@ -30,3 +30,8 @@ user simply has to store the result of their Get request into a variable and tha
 the desired beach that they sent the name of. The user can utilize the "async" and "await" keywords of Javascript in    <br>
 order to wait for the Javascript "promise" to be fulfilled before they try to access/use the data they receive back.    <br>
 An example of the code which sends back this response can be seen in the UML diagram below.    <br>
+
+---
+
+![Image](https://github.com/JyoJyo22/cs361-micro/blob/master/cs361-assign8-UML.png)
+
